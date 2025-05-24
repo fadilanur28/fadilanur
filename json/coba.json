@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Fadlinur",
+        "umur" : 21,
+        "nip" : "2217020113",
+        "lulus" : false,
+        "hobby" : [
+            "cooking",
+            "playing"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Ahmad Santoso",
+            "pembimbing2" : "Intan "
+        }
+
+    },
+     {
+        "nama" : "Fadlinur",
+        "umur" : 21,
+        "nip" : "2217020113",
+        "lulus" : false,
+        "hobby" : [
+            "cooking",
+            "playing"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Ahmad Santoso",
+            "pembimbing2" : "Intan "
+        }
+    }
+
+]
