@@ -109,10 +109,10 @@ $gambar5 = $resultGambar5['media_url'];
         </div>
         <div class="row justify-content-center">
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Saya adalah Fadlinur, seorang Software Developer yang memiliki ketertarikan mendalam pada Data Analysis dan dunia membaca. Bagi saya, dunia pemrograman adalah ruang ekspresi antara logika dan kreativitas, tempat di mana ide-ide bisa diubah menjadi solusi nyata yang bermanfaat. Saya senang membangun aplikasi yang tidak hanya berfungsi dengan baik, tetapi juga memberikan pengalaman pengguna yang menyenangkan dan efisien. Minat saya pada analisis data memperluas perspektif saya dalam melihat pola, tren, dan informasi tersembunyi dalam angka-angka. Saya percaya bahwa setiap data memiliki cerita, dan tugas saya adalah menemukan serta menyampaikan cerita itu dengan cara yang berdampak.</p>
           </div>
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Di luar dunia teknologi, saya adalah pembaca yang aktif dan haus akan pengetahuan. Buku-buku menjadi jendela saya untuk memahami dunia, mulai dari topik pengembangan diri, teknologi, psikologi, hingga fiksi ilmiah. Saya juga senang mengeksplorasi hal-hal baru, belajar secara mandiri, dan mencoba berbagai alat serta framework modern dalam dunia pengembangan perangkat lunak. Saya percaya bahwa pertumbuhan yang konsisten lebih berharga daripada kesempurnaan yang sesaat. Bagi saya, menjadi seorang developer bukan hanya tentang menulis kode, melainkan tentang memahami untuk siapa solusi itu dibuat dan bagaimana teknologi bisa memberikan dampak positif bagi kehidupan.</p>
           </div>
         </div>
       </div>
@@ -211,7 +211,8 @@ $gambar5 = $resultGambar5['media_url'];
             <div class="card">
               <img class="card-img-top" src="img/thumbs/foto 1.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Frontend Web App with Responsive Design
+Sebuah proyek web dengan desain responsif menggunakan HTML, CSS, dan JavaScript. Fokus pada user experience yang optimal di semua perangkat.</p>
               </div>
             </div>
           </div>
@@ -220,7 +221,10 @@ $gambar5 = $resultGambar5['media_url'];
             <div class="card">
               <img class="card-img-top" src="img/thumbs/foto 2.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Data Visualization Dashboard
+Dashboard interaktif menggunakan Chart.js dan API publik untuk menyajikan data statistik secara real-time.
+
+</p>
               </div>
             </div>
           </div>
@@ -229,7 +233,8 @@ $gambar5 = $resultGambar5['media_url'];
             <div class="card">
               <img class="card-img-top" src="img/thumbs/foto 3.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Financial Analysis Tool
+Aplikasi sederhana untuk menganalisis tren pasar saham menggunakan Python dan Pandas, dengan output visual menggunakan Matplotlib.</p>
               </div>
             </div>
           </div>   
@@ -240,7 +245,8 @@ $gambar5 = $resultGambar5['media_url'];
             <div class="card">
               <img class="card-img-top" src="img/thumbs/foto 4.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Code Editor Clone (Python Project)
+Mini project clone dari code editor sederhana dengan fitur syntax highlighting dan auto-save.</p>
               </div>
             </div>
           </div> 
@@ -248,7 +254,8 @@ $gambar5 = $resultGambar5['media_url'];
             <div class="card">
               <img class="card-img-top" src="img/thumbs/foto 5.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
+                <p class="card-text">DevOps Monitoring Interface
+Tampilan monitoring server yang dibangun menggunakan React dan mengakses data real-time dari Grafana/Prometheus API.
                 </p>
               </div>
             </div>
@@ -258,7 +265,10 @@ $gambar5 = $resultGambar5['media_url'];
             <div class="card">
               <img class="card-img-top" src="img/thumbs/foto 6.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Simple CRUD App (Fullstack)
+Aplikasi CRUD menggunakan MERN stack (MongoDB, Express, React, Node.js), dilengkapi autentikasi dan dashboard admin.
+
+</p>
               </div>
             </div>
           </div>
